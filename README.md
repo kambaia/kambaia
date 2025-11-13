@@ -32,16 +32,6 @@
   <!-- Configuration & Infrastructure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
-  &nbsp;
-  <!-- Monitoring & Logging -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" />
-  &nbsp;
-  <!-- Project Management -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" width="40" height="40" title="Jira" />
-  &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />
