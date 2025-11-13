@@ -1,24 +1,21 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=JetBrains+Mono" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Kambaia%20Alberto%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=JetBrains+Mono" alt="header" />
 </p>
 
-
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=00C4B4&width=800&lines=🚀+Aspiring+DevOps+Engineer;☁️+Cloud+%7C+CI%2FCD+%7C+GitHub+Actions;🔁+Automation+%7C+Docker+%7C+Jenkins;❤️+Open+Source+%7C+Linux+Enthusiast" alt="Typing DevOps Roles" onerror="this.style.display='none'" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=00C4B4&width=1000&lines=💻+Desenvolvedor+FullStack;🚀+Node.js+%7C+TypeScript+%7C+NestJS;⚛️+Next.js+%7C+React+%7C+React+Native;🧠+C%23+%7C+Laravel+%7C+Angular;❤️+Open+Source+%7C+Clean+Code" alt="Typing FullStack Roles" onerror="this.style.display='none'" />
 </p>
 
 ---
-
 ## 👋 About Me
-- 📅 **Currently on Day 86** of my **100 Days of DevOps** journey.  
-- ⚙️ Mastering **Linux**, **Git**, **Docker**, **GitHub Actions**, and building automated CI/CD pipelines deploying to **Docker Hub**.  
-- 📦 Learning **Jenkins**, **Terraform**, **Kubernetes**, and **AWS** for scalable, cloud-native solutions.  
-- 📝 Sharing everything I learn via blogs & GitHub projects to help others grow in DevOps.  
-- 🎯 **Goal:** Become a **Pro DevOps Engineer** specializing in automation, cloud, and CI/CD.
+💻 Currently working as a FullStack Developer, skilled in Node.js, TypeScript, React, Next.js, NestJS, Angular, and Laravel.
+
+🧩 Experienced with Docker, Git, GitHub Actions, and automated CI/CD pipelines.
+
+🎯 Goal: Become a Professional FullStack Developer, focusing on best practices, automation, and clean code.
 
 ---
-
 
 ## 🔧 Cloud & DevOps Tools
 <p align="left">
